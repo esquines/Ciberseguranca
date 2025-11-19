@@ -18,11 +18,11 @@
 ## listas não ordenadas
 
 * aaa
-  * aaaa
+  * aaaa - mas tem que colocar dois espaços da posição inicial
 * bbb
- * bbbb
+  * bbbb
 * ccc
- * cccc
+  * cccc
 
 
 ## Links
