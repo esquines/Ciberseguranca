@@ -40,8 +40,8 @@
 ## Lista de Tarefas
 
 - [X]
-- []
-- [] 
+- [ ]
+- [ ] 
 
 
 ## Códigos
