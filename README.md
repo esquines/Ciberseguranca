@@ -39,9 +39,9 @@
 
 ## Lista de Tarefas
 
-- [X]
-- [ ]
-- [ ] 
+* [X]
+* [ ]
+* [ ] 
 
 
 ## Códigos
