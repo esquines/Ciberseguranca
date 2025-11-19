@@ -42,7 +42,7 @@
 
 ## Lista de Tarefas
 
-* [X]
+  * [X]
 * [ ]
 * [ ] 
 
