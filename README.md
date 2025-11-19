@@ -39,7 +39,7 @@
 
 ## Lista de Tarefas
 
-- [x]
+- [X]
 - []
 - [] 
 
