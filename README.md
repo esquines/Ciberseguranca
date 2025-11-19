@@ -34,8 +34,7 @@
 
 ## Quotes
 
-** Já dizia o velho ditado: **
-> Mais vale um pássaro na mão que dois voando
+**Já dizia o velho ditado:** > Mais vale um pássaro na mão que dois voando
 
 ## Lista de Tarefas
 
